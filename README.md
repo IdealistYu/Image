@@ -1,2 +1,2 @@
-# Image hosting service
+# Image hosting
 save images upload by PicGo

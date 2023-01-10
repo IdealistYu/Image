@@ -1,2 +1,2 @@
 # Image host
-save images upload from picgo
+save images upload by PicGo
